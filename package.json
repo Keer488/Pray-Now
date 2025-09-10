@@ -1,0 +1,17 @@
+{
+  "name": "prayer-reminder-app",
+  "version": "1.0.0",
+  "description": "Prayer Reminder App with Login and Task Features",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
